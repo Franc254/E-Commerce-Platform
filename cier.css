@@ -1,0 +1,32 @@
+/*html{
+   background-image: url(logo/logo.jpg);
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+}*/
+h1{
+    text-align: center;
+    color: orange;
+    font-style: italic;
+    font-size: 150px;
+}
+.first{
+    margin-top: -40px;
+}
+.second{
+    margin-top: -200px;
+}
+.intro{
+    color: lightgreen;
+    text-align: center;
+    margin-top: -100px;
+}
+.dishes{
+    text-align: center;
+    display: block
+}
+.main{
+    text-align: center;
+    display: none;
+}
