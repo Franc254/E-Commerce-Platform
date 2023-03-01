@@ -1,2 +1,2 @@
 # E-Commerce-Platform
-View cultural paintings from diverse communities in Africa
+A website where one can find the recipe to any dish they wish to cook
